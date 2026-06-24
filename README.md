@@ -57,14 +57,6 @@ Long-term objectives:
 
 ---
 
-# Download
-
-Download the latest release from:
-
-👉 **https://github.com/USERNAME/cyrus-ai/releases/latest**
-
----
-
 # Playing with PyChess
 
 ## Step 1 – Install PyChess
@@ -78,18 +70,7 @@ Download and install PyChess:
 ## Step 2 – Download Cyrus AI
 
 Download the latest executable from the Releases page.
-
-For Windows:
-
-```text
-cyrus-ai.exe
-```
-
-For Linux:
-
-```text
-cyrus-ai
-```
+**https://github.com/jazavaja/CyrusEngine/releases/download/V1.0.3/cyrus.exe**
 
 ---
 
@@ -106,10 +87,10 @@ Edit → Preferences → Engines
 4. Select:
 
 ```text
-cyrus-ai.exe
+cyrus.exe
 ```
 
-(or `cyrus-ai` on Linux)
+(or `cyrus` on Linux)
 
 PyChess should automatically detect Cyrus AI as a **UCI Chess Engine**.
 
