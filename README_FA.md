@@ -1,5 +1,7 @@
 # ♟️ کوروش AI (Cyrus AI)
 
+<img width="855" height="420" alt="Cyrus-screen" src="https://github.com/user-attachments/assets/5c191df4-abc2-4edc-b24b-5ddda2ca150d" />
+
 **کوروش AI** یک موتور شطرنج ایرانی مبتنی بر پروتکل UCI است که با تمرکز بر **هوش مصنوعی، الگوریتم‌های جستجو و پژوهش در حوزه شطرنج کامپیوتری** در حال توسعه است.
 
 > **کوروش AI یک موتور شطرنج (Chess Engine) است، نه یک نرم‌افزار گرافیکی شطرنج (Chess GUI).**
