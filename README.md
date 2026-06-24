@@ -1,8 +1,12 @@
 # ♟️ Cyrus AI (کوروش AI)
 
+<img width="855" height="420" alt="Cyrus-screen" src="https://github.com/user-attachments/assets/5c191df4-abc2-4edc-b24b-5ddda2ca150d" />
+
+
 🇬🇧 English | 🇮🇷 فارسی
 
 📖 Looking for the Persian documentation? Click here: **[README_FA.md](README_FA.md)**
+
 
 ---
 
