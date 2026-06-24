@@ -1,6 +1,13 @@
 # ♟️ Cyrus AI (کوروش AI)
 
+🇬🇧 English | 🇮🇷 فارسی
+
+📖 Looking for the Persian documentation? Click here: **[README_FA.md](README_FA.md)**
+
+---
+
 **Cyrus AI** is an experimental Iranian UCI chess engine focused on artificial intelligence, search algorithms, and computer chess research.
+
 
 > **Cyrus AI is a chess engine, not a chess GUI.**
 >
